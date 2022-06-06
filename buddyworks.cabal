@@ -1,5 +1,5 @@
 cabal-version:      2.4
-name:               herokuhaskell
+name:               buddyworks
 version:            0.1.0.0
 
 -- A short (one-line) description of the package.
@@ -13,7 +13,7 @@ version:            0.1.0.0
 
 -- The license under which the package is released.
 -- license:
-author:             muhamirulhaq
+author:             Muhammad Amirul Haq
 maintainer:         muhammadamirulhaq66@gmail.com
 
 -- A copyright notice.
@@ -21,7 +21,7 @@ maintainer:         muhammadamirulhaq66@gmail.com
 -- category:
 extra-source-files: CHANGELOG.md
 
-executable herokuhaskell
+executable buddyworks
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
